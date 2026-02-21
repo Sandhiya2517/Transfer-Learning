@@ -87,17 +87,20 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/4148312f-b743-44ff-9772-7fd5ca11668b)
+<img width="982" height="907" alt="Screenshot 2026-02-21 213740" src="https://github.com/user-attachments/assets/2915b016-3669-4224-b307-3ae3b60a9151" />
+
 
 ### Confusion Matrix
-![Screenshot 2025-03-23 225807](https://github.com/user-attachments/assets/61db2f24-c58b-4bab-a30b-43e730816bf9)
+<img width="822" height="681" alt="Screenshot 2026-02-21 213814" src="https://github.com/user-attachments/assets/2692dc10-fe3d-4c75-9ea3-98fd6b9dbe92" />
+
 
 ### Classification Report
-![image](https://github.com/user-attachments/assets/7dda420e-571d-47f0-b860-a8f44b304e68)
+<img width="665" height="244" alt="Screenshot 2026-02-21 213827" src="https://github.com/user-attachments/assets/68a2b045-1a4c-4124-ae00-649e4d765f6c" />
+
 
 ### New Sample Prediction
+<img width="522" height="464" alt="Screenshot 2026-02-21 213842" src="https://github.com/user-attachments/assets/711aec0b-40f9-47a3-b034-765d5973c1a5" />
 
-![image](https://github.com/user-attachments/assets/209889cb-9cbf-4044-85b7-c96d646c7dda)
 
 ## RESULT
 Thus, the transfer Learning for classification using VGG-19 architecture has succesfully implemented.
